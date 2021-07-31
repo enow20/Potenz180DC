@@ -1,2 +1,11 @@
 # Potenz180DC
-This is repo for hackbiz 180DC UGM with Awang Long Team
+Team name: Awang Long
+Team members: Harisno, Nanditya Nuswatama, Amannia Rachmadiva O, Lydia Sekar Wulanastri
+
+Product Description:
+Potenz is an application that helps its users to find their best potentials through a psychological test. Later, 
+potenz will give the users content recommendations based on their test result. The contents are curated and 
+designed to suit users’ potentials accurately. With accurate and helpful information, users' willingness to 
+learn will increase because this platform will tell them what are their potentials and also will give them a 
+comprehensive way to learn. With enough knowledge, people can get better jobs and also increase their 
+income to solve poverty.
