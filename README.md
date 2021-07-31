@@ -10,3 +10,7 @@ designed to suit users’ potentials accurately. With accurate and helpful infor
 learn will increase because this platform will tell them what are their potentials and also will give them a 
 comprehensive way to learn. With enough knowledge, people can get better jobs and also increase their 
 income to solve poverty.
+
+GitHub:
+- Harisno: https://github.com/enow20/Potenz180DC 
+- Nandit: https://github.com/NandityaNuswatama/potenz 
