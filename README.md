@@ -1,5 +1,6 @@
 # Potenz180DC
 Team name: Awang Long
+
 Team members: Harisno, Nanditya Nuswatama, Amannia Rachmadiva O, Lydia Sekar Wulanastri
 
 Product Description:
